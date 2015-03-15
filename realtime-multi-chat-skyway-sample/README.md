@@ -3,6 +3,7 @@
 他のメンバーが入ると自動接続します。  
 クラウドサービス[SkyWay](http://nttcom.github.io/skyway/)(WebRTC)を使用しています。  
 
+## Install and Running
 ```
 git clone https://github.com/front-core/peer-to-peer-sample.git
 cd peer-to-peer-sample/realtime-multi-chat-skyway-sample
@@ -14,5 +15,6 @@ Access to
 or  
 [http://naoki-otsu.info/realtime-multi-chat-skyway-sample/](http://naoki-otsu.info/realtime-multi-chat-skyway-sample/)  
 
-SkyWayを利用する為には、  
+## Develop
+SkyWayを利用して開発する為には、  
 [開発者登録](https://skyway.io/ds/registration/)してAPI_KEYの発行、また利用するドメインの指定が必要です。(無料)  
