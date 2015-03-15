@@ -1,4 +1,4 @@
-# realtime-multi-chat-skyway-sample
+# realtime-multi-audio-skyway-sample
 リアルタイム通信(peer to peer)して、複数メンバーで音声再生するサンプルです。  
 他のメンバーが入ると自動接続します。  
 クラウドサービス[SkyWay](http://nttcom.github.io/skyway/)(WebRTC)を使用しています。  
