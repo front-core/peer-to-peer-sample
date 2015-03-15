@@ -3,6 +3,11 @@
 他のメンバーが入ると自動接続します。  
 クラウドサービス[SkyWay](http://nttcom.github.io/skyway/)(WebRTC)を使用しています。  
 
+## Browser Support
+* Chrome23+
+* FireFox22+
+* Chrome for Android40+
+
 ## Install and Running
 ```
 git clone https://github.com/front-core/peer-to-peer-sample.git
